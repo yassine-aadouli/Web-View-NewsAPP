@@ -1,4 +1,4 @@
-# WDNewsAPP
+# Web View News APP
 
 
 # Dark mode
